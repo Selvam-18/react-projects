@@ -11,6 +11,6 @@ Feel free to fork, and make use of these projects.
 1. Download the project.
 2. Make sure you have "vite" installed in your device.
 3. Install the dependencies using cmd "npm i"
-4. initiate the project using cmd "npm run dev"
+4. Initiate the project using cmd "npm run dev"
 
 Happy learning!🧑🏻‍💻
